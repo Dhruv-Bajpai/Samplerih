@@ -1,7 +1,15 @@
-- 👋 Hi, I’m Gnomeslayer
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on my future project.
-- 📫 How to reach me:via Discord,Linkeldn,Twitter,and via your heart😍.
-- ⚡ Goal: I will be publish my own first site very soon 😊.
+# 👋 Hi, I'm Gnomeslayer
+
+I build interesting software and interested in reading fictional books.
+
+
+## Experience
+
+| Language | Experience                                   | Time    |
+| -------- | -------------------------------------------- | ------- |
+| Python   | Experienced - comfortable               | 2 years |
+| JS  | Fairly experienced - second most comfortable | 2 months |
+| HTML     | Is a programming language                    | 1 years |
+| CSS    | Is a programming language                    | 1 years |
+
 
