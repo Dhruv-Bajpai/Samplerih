@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Gnomeslayer
+# 👋 Hi, I'm DHRUV
 
 I build interesting software and interested in reading fictional books.
 
-[![Gnomeslayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samplerih)](https://github.com/anuraghazra/github-readme-stats)
+[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samplerih)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gnomeslayer's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samplerih)](https://github.com/anuraghazra/github-readme-stats)
+[![Dhruv's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samplerih)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p float="left">
